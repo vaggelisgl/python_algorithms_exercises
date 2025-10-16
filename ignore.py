@@ -1,4 +1,5 @@
 #this has nothing to do with the actual repository, i put it here just to get the .py tag, because all the related python code is in .png
+#for reference this was a trial of hand tracking for me to try to udnerstand this already produced code,opencv and my laptop camera.
 import cv2
 import mediapipe as mp
 import time
